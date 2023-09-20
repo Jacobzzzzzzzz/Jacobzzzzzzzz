@@ -1,8 +1,7 @@
+<h2 align='center'><samp><strong>Hi there 👋, I am</strong></samp></h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jacobzzzzzzzz/jacobzzzzzzzz/master/yakov_komarov.gif" alt="animated" />
 </p>
-
-<h2 align='center'><samp><strong>Hi there 👋, I am Yakov Komarov</strong></samp></h2>
 <h3 align='center'><strong>About me🌐</strong></h3>
 <p align='center'>Backend developer</p>
 
