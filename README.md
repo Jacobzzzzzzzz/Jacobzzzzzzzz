@@ -1,4 +1,6 @@
-[![](https://raw.githubusercontent.com/jacobzzzzzzzz/jacobzzzzzzzz/master/yakov_komarov.gif)](https://vk.com/doc271476229_666095927?hash=R0FWqMX2qwSA0183QzmhC6FA0qLBRCa1brBDeuXcuwD&dl=80ED9HmICqJLwxoSntsAqlTWvA2Zb6QkMGcaGqYxzA8)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jacobzzzzzzzz/jacobzzzzzzzz/master/yakov_komarov.gif" alt="animated" />
+</p>
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Yakov Komarov</strong></samp></h2>
 <h3 align='center'><strong>About me🌐</strong></h3>
