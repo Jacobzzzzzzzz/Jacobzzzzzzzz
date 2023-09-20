@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![](https://raw.githubusercontent.com/jacobzzzzzzzz/jacobzzzzzzzz/master/yakov_komarov.gif)](https://vk.com/doc271476229_666095927?hash=R0FWqMX2qwSA0183QzmhC6FA0qLBRCa1brBDeuXcuwD&dl=80ED9HmICqJLwxoSntsAqlTWvA2Zb6QkMGcaGqYxzA8)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Yakov Komarov</strong></samp></h2>
@@ -14,17 +13,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
-=======
-[![](https://raw.githubusercontent.com/jacobzzzzzzzz/jacobzzzzzzzz/master/yakov_komarov.gif)](https://vk.com/doc271476229_666094759?hash=sya5za5g7e5saNNmlgyzsP2dbWx7BfrEccN691eF92g&dl=VkOh5V0IyNYPKtevqOd4tvu7wG8ZysuztZhnR8Ruym4)
-
-### Languages
-
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-
->>>>>>> 1e457c2019c5473dc31ef032a5d284b4934682c3
 ### Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
