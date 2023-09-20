@@ -8,6 +8,8 @@
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** mostly in backend. I make *every effort* to create *truly high-quality* products.
 
+### Languages
+
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logo=Java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
