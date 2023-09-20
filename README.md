@@ -1,16 +1,16 @@
-### Hi there 👋
+[![](https://raw.githubusercontent.com/jacobzzzzzzzz/jacobzzzzzzzz/master/yakov_komarov.gif)](https://vk.com/doc271476229_666094759?hash=sya5za5g7e5saNNmlgyzsP2dbWx7BfrEccN691eF92g&dl=VkOh5V0IyNYPKtevqOd4tvu7wG8ZysuztZhnR8Ruym4)
 
-<!--
-**Jacobzzzzzzzz/Jacobzzzzzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
